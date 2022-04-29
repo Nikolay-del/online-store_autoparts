@@ -1,0 +1,11 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="30" cy="30" r="30" fill="#FF7931"/>
+<rect x="14.6074" y="26.9793" width="31.4021" height="16.5567" stroke="white" stroke-width="2"/>
+<rect x="12.1338" y="20.7938" width="36.3505" height="2.3299" rx="1.16495" stroke="white" stroke-width="2"/>
+<rect x="21.3399" y="15.1547" width="17.9381" height="1.85567" stroke="white" stroke-width="1.85567"/>
+<path d="M15.4639 15.7732C15.4639 14.9192 16.1562 14.2269 17.0103 14.2269C17.8643 14.2269 18.5567 14.9192 18.5567 15.7732V17.9382H15.4639V15.7732Z" fill="white"/>
+<path d="M42.0625 16.0825C42.0625 15.0577 42.8933 14.2269 43.9182 14.2269C44.943 14.2269 45.7738 15.0577 45.7738 16.0825V17.9382H42.0625V16.0825Z" fill="white"/>
+<rect x="37.5723" y="31.5993" width="1.10888" height="7.02288" rx="0.554438" fill="white"/>
+<rect x="34.6162" y="35.6651" width="1.10888" height="7.02288" rx="0.554438" transform="rotate(-90 34.6162 35.6651)" fill="white"/>
+<rect x="19.1758" y="35.8764" width="1.23711" height="6.80412" rx="0.618557" transform="rotate(-90 19.1758 35.8764)" fill="white"/>
+</svg>
